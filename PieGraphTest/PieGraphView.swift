@@ -69,7 +69,8 @@ class PieGraphView: UIView {
             if(end_angle > _end_angle) {
                 end_angle = _end_angle;
             }
-            var _:UIColor = dic["color"] as! UIColor
+            var color: UIColor = dic["color"] as! UIColor
+            //var _:UIColor = dic["color"] as! UIColor
             
             context.move(to: CGPoint(x: x, y: y))
             
@@ -81,7 +82,7 @@ class PieGraphView: UIView {
             
             //CGContextSetFillColor(context, CGColorGetComponents(color.CGColor));
             
-            context.setFillColor(self.tintColor.cgColor)
+            context.setFillColor(color.cgColor)
             
             context.closePath();
             context.fillPath();
