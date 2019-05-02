@@ -30,10 +30,16 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    
+    @IBAction func start(_ sender: Any) {
+        graphView.startAnimating()
+    }
+    
+    /***
     @IBAction func start(sender: AnyObject) {
         graphView.startAnimating()
         
     }
-    
+    ***/
 }
 

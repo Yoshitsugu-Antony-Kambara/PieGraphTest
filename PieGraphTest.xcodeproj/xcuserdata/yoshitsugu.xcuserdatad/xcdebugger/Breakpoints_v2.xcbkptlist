@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PieGraphTest/PieGraphView.swift"
+            timestampString = "578491415.4446369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PieGraphView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.getter : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491415.504545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.setter : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491415.507187"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.modify : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491415.509411"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.modify : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491415.511552"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PieGraphTest/PieGraphView.swift"
+            timestampString = "578491416.614005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PieGraphView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.getter : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491416.627841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.setter : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491416.631464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.modify : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491416.6361851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PieGraphTest.PieGraphView._params.modify : Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PieGraphTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoshitsugu/Desktop/Test/PieGraphTest/PieGraphTest/PieGraphView.swift"
+                  timestampString = "578491416.6406569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

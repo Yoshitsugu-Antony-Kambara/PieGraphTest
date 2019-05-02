@@ -85,7 +85,7 @@ class PieGraphView: UIView {
             
             context.closePath();
             context.fillPath();
-            start_angle = end_angle;
+            start_angle = _end_angle;
         }
         
     }
