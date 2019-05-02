@@ -25,7 +25,7 @@ class PieGraphView: UIView {
     }
     
     
-    func update(link:AnyObject){
+    @objc func update(link:AnyObject){
         let angle = CGFloat(M_PI*2.0 / 100.0);
         _end_angle = _end_angle +  angle
         if(_end_angle > CGFloat(M_PI*2)) {
@@ -38,7 +38,7 @@ class PieGraphView: UIView {
     }
     
     func startAnimating(){
-        let displayLink = CADisplayLink(target: self, selector: Selector(("update:")))
+        let displayLink = CADisplayLink(target: self, selector: #selector(update))
         displayLink.add(to: RunLoop.current, forMode: RunLoop.Mode.common)
     }
     
